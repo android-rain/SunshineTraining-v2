@@ -5,7 +5,7 @@ import android.test.AndroidTestCase;
 public class TestPractice extends AndroidTestCase {
     /*
         This gets run before every test.
-        测试test文件有没有提交到github
+        锟斤拷锟斤拷test锟侥硷拷锟斤拷没锟斤拷锟结交锟斤拷github
      */
     @Override
     protected void setUp() throws Exception {
